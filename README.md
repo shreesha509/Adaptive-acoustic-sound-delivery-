@@ -147,8 +147,8 @@ This technology has applications in numerous domains, including:
 ## 👥 Development Team
 
 * Shreesha Kumar P
-* Team Member
-* Team Member
+* Raksha GH
+* Poorvi dambal
 
 ---
 
